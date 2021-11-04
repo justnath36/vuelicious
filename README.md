@@ -2,6 +2,9 @@
 :rocket: Whilst learning Vue.js, I searched far and wide for an easy entry point that contains the necessary functionality
 such as state management and router capabilities. This repo includes Vue.js, Vuetify, Vuex and Vue Router. Small examples
 are provided in the source that enable rapid prototyping. Hack away!
+
+Demo: https://dreamy-meitner-16425b.netlify.app/
+
 ## Project setup
 ```
 npm install
@@ -38,4 +41,5 @@ npm run build
 :heavy_check_mark: Vuetify 
 - See [Vuetify Docs](https://vuetifyjs.com/en/getting-started/installation/).
 
+:heavy_check_mark: PWA
 
