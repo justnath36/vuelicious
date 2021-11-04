@@ -33,6 +33,7 @@ npm run build
 
 :heavy_check_mark: Router 
 - See: `src/main.js`. Examples provided in `src/App.vue`
+- [Vue Router Docs](https://router.vuejs.org/installation.html)
 
 :heavy_check_mark: Vuetify 
 - See [Vuetify Docs](https://vuetifyjs.com/en/getting-started/installation/).
